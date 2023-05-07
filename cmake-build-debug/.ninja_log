@@ -1,0 +1,6 @@
+# ninja log v5
+2	83	7051923969832454	CMakeFiles/Sem5.dir/main.c.obj	cd6530a9d2169832
+84	191	7051923970861832	Sem5.exe	547c790e59541eb9
+1	476	7051935889323985	build.ninja	356da1c5f20ffb53
+2	95	7051484678302996	CMakeFiles/Sem5.dir/main_calc.c.obj	2a13ca2f0ae6de0b
+3	118	7051921850659049	CMakeFiles/Sem5.dir/calc.c.obj	d889c617c27eb4a9

@@ -21,7 +21,6 @@ int main() {
     scanf("%s", str1);
     printf("Input string 2:\n");
     scanf("%s", str2);
-
     position(str1,str2);
 
 
